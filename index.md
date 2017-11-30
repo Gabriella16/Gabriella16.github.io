@@ -7,5 +7,5 @@ this is my 360 image
 **
 ### Camera Effects
 
-![filter](Welcome to Vectr.jpg.jpg?raw=true "Optional Title")
+![filter](Welcome to Vectr.jpg?raw=true "Optional Title")
 
